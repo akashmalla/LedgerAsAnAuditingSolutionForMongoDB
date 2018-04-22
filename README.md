@@ -1,5 +1,5 @@
 # LedgerAsAnAuditingSolutionForMongoDB
-This python script captures mongodb related statistics on type of queries that are being run for example and more.
+This python script captures mongodb related statistics on type of queries that are being run for example and more. This was a group project for cloud computing course and I worked on python script and some research to add to the final report.
 
 Language Used : - Python 3.6
 MongoDB was installed on AWS EC2 ubuntu 16.0 instance
